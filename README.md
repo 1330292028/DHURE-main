@@ -46,3 +46,12 @@ python IHE_main.py
 ## 6 Citation
 
 If you find DHURE is useful in your research, please cite our paper:
+```
+@misc{
+anonymous2024differentiable,
+title={Differentiable Histogram-Guided Unsupervised Retinex Enhancement for Paired Low-Light Images},
+author={Anonymous},
+year={2024},
+url={https://openreview.net/forum?id=WWDYyqgTZz}
+}
+```
